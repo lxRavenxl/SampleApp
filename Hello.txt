@@ -1,5 +1,1 @@
-Hello world for sample git commands
-Second line
-1st
-2nd merge
-3rd
+HELLO
