@@ -1,2 +1,3 @@
 Hello world for sample git commands
 Second line
+Third line
